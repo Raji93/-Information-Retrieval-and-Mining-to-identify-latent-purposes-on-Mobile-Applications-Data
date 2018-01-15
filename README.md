@@ -1,6 +1,8 @@
 # Information-Retrieval-and-Mining-to-identify-latent-purposes-on-Mobile-Applications-Data
 
 This Project aims at discovering the purposes of various mobile applications from the android applications data set.
+
+
 Step 1:
 -------
 The data set is loaded as data frames and then converted into documents.
